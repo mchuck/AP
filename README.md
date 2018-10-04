@@ -1,4 +1,5 @@
 
+
 Programowanie Abstrakcyjne
 =====
 
@@ -20,6 +21,10 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 ## Ćwiczenia
 
 - [04.10.2018 - Polimorfizm dynamiczny](lectures/01.md)
+
+## Oceny
+
+- [Arkusz z aktualną punktacją](https://ujchmura-my.sharepoint.com/:x:/g/personal/maciej_szymczak_student_uj_edu_pl/EZSf8yt62IVIuVyQHrKU-NcBD9m28FwJBEOqSgb58X3Ehw?e=7fW20M)
 
 ## Deadline zadań domowych
 
