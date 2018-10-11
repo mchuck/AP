@@ -21,6 +21,7 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 ## Ćwiczenia
 
 - [04.10.2018 - Polimorfizm dynamiczny](lectures/01.md)
+- [11.10.2018 - Polimorfizm statyczny w C++, cz. 1](lectures/02.md)
 
 ## Oceny
 
@@ -29,3 +30,4 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 ## Deadline zadań domowych
 
 - Ćw 01 - 18.10.2018 18:00
+- Ćw 02 - 25.10.2018 18:00
