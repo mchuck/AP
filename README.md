@@ -1,5 +1,6 @@
 
 
+
 Programowanie Abstrakcyjne
 =====
 
@@ -14,7 +15,6 @@ Zasady zaliczenia przedmiotu można znaleźć na platformie **PEGAZ**.
 - Ocenę można uzyskać później `(do końca semestru)`, obniżoną o `1` stopień.
 - Obecność na zajęciach jest **obowiązkowa**. (max. **5** nieobecności)
 - Na ocenę składa się aktywność `(20%)` oraz punkty za zadania domowe `(80%)`.
-- Zadania domowe `(kody programów)` należy wysyłać na mój adres e-mail.
 
 Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 
@@ -27,7 +27,12 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 
 - [Arkusz z aktualną punktacją](https://ujchmura-my.sharepoint.com/:x:/g/personal/maciej_szymczak_student_uj_edu_pl/EZSf8yt62IVIuVyQHrKU-NcBD9m28FwJBEOqSgb58X3Ehw?e=7fW20M)
 
+## Przesyłanie zadań domowych
+
+- Zadania domowe `(kody programów)` należy wysyłać na mój adres e-mail.
+- Proszę o przesyłanie zadań domowych z tytułem maila w formacie `[PA<numer_zadania>] <imię_i_nazwisko>`, np. `[PA01] Jan Kowalski`. W razie wysyłania kolejnych maili, proszę dopisywać nr wersji, np. `[PA01] Jan Kowalski #2`.
+
 ## Deadline zadań domowych
 
-- Ćw 01 - 18.10.2018 18:00
+- Ćw 01 - 18.10.2018 23:59
 - Ćw 02 - 25.10.2018 18:00
