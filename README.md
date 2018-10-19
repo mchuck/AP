@@ -32,7 +32,7 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 ## Przesyłanie zadań domowych
 
 - Zadania domowe `(kody programów)` należy wysyłać na mój adres e-mail.
-- Proszę o przesyłanie zadań domowych z tytułem maila w formacie `[PA<numer_zadania>] <imię_i_nazwisko>`, np. `[PA01] Jan Kowalski`. W razie wysyłania kolejnych maili, proszę dopisywać nr wersji, np. `[PA01] Jan Kowalski #2`.
+- Proszę o przesyłanie zadań domowych z tytułem maila w formacie `[PA<numer_zadania>] <imię_i_nazwisko>`, np. `[PA01] Jan Kowalski`. W razie wysyłania kolejnych maili, proszę dopisywać nr wersji, np. `[PA01] Jan Kowalski #2`. Proszę również o nazywanie plików/archiwów w sensowny sposób, np. `kowalski.cpp`, `kowalski.zip`, `kowalski_2.cpp` dla wesji `2`.
 
 ## Deadline zadań domowych
 
