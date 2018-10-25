@@ -3,6 +3,7 @@
 
 
 
+
 Programowanie Abstrakcyjne
 =====
 
@@ -31,7 +32,7 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - 22.11.2018 - Metaprogramowanie w C++, cz. 2
 - 29.11.2018 - Koncepty w C++
 - 06.12.2018 - Polimorfizm statyczny w C#
-- 13.12.2018 - Polimoefizm statyczny w Javie
+- 13.12.2018 - Polimorfizm statyczny w Javie
 
 ## Oceny
 
