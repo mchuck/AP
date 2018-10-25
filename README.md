@@ -2,6 +2,7 @@
 
 
 
+
 Programowanie Abstrakcyjne
 =====
 
@@ -22,8 +23,15 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 ## Ćwiczenia
 
 - [04.10.2018 - Polimorfizm dynamiczny](lectures/01.md)
-- [11.10.2018 - Polimorfizm statyczny w C++, cz. 1](lectures/02.md)
-- [18.10.2018 - Polimorfizm statyczny w C++, cz. 2](lectures/03.md)
+- [11.10.2018 - Polimorfizm statyczny w C++, cz. 1.](lectures/02.md)
+- [18.10.2018 - Polimorfizm statyczny w C++, cz. 2.](lectures/03.md)
+- [25.10.2018 - STL i iteratory w C++](lectures/04.md)
+- 08.11.2018 - STL cz. 2. Programowanie funkcyjne w STL.
+- 15.11.2018 - Metaprogramowanie w C++, cz. 1
+- 22.11.2018 - Metaprogramowanie w C++, cz. 2
+- 29.11.2018 - Koncepty w C++
+- 06.12.2018 - Polimorfizm statyczny w C#
+- 13.12.2018 - Polimoefizm statyczny w Javie
 
 ## Oceny
 
