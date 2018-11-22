@@ -30,10 +30,11 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - [25.10.2018 - STL i iteratory w C++](lectures/04.md)
 - [08.11.2018 - STL cz. 2. Programowanie funkcyjne w STL](lectures/05.md)
 - [15.11.2018 - Metaprogramowanie w C++, cz. 1](lectures/06.md)
-- 22.11.2018 - Metaprogramowanie w C++, cz. 2
-- 29.11.2018 - Koncepty w C++
-- 06.12.2018 - Polimorfizm statyczny w C#
-- 13.12.2018 - Polimorfizm statyczny w Javie
+- [22.11.2018 - Metaprogramowanie w C++, cz. 2](lectures/07.md)
+- 29.11.2018 - **Zajęcia odwołane**
+- 06.11.2018 - Koncepty w C++
+- 13.12.2018 - Polimorfizm statyczny w C#
+- 20.12.2018 - Polimorfizm statyczny w Javie
 
 ## Oceny
 
