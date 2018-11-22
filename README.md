@@ -32,9 +32,13 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - [15.11.2018 - Metaprogramowanie w C++, cz. 1](lectures/06.md)
 - [22.11.2018 - Metaprogramowanie w C++, cz. 2](lectures/07.md)
 - 29.11.2018 - **Zajęcia odwołane**
-- 06.11.2018 - Koncepty w C++
-- 13.12.2018 - Polimorfizm statyczny w C#
-- 20.12.2018 - Polimorfizm statyczny w Javie
+- 06.12.2018 - Metaprogramowanie w C++, cz. 3
+- 13.12.2018 - Koncepty w C++
+- 20.12.2018 - Polimorfizm statyczny w C#
+- 03.01.2019 - Polimorfizm statyczny w Javie
+- 10.01.2019 - TBD
+- 17.01.2019 - TBD
+- 24.01.2019 - TBD
 
 ## Oceny
 
@@ -54,3 +58,4 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - Ćw 04 - 08.11.2018 23.59
 - Ćw 05 - 22.11.2018 23.59
 - Ćw 06 - 29.11.2018 23.59
+- Ćw 07 - 06.12.2018 23:59
