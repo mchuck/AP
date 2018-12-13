@@ -33,7 +33,7 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - [22.11.2018 - Metaprogramowanie w C++, cz. 2](lectures/07.md)
 - 29.11.2018 - **Zajęcia odwołane**
 - 06.12.2018 - **Zajęcia odwołane**
-- 13.12.2018 - Metaprogramowanie w C++, cz. 3
+- [13.12.2018 - Metaprogramowanie w C++, cz. 3](lectures/08.md)
 - 20.12.2018 - Koncepty w C++
 - 03.01.2018 - Polimorfizm statyczny w C#
 - 10.01.2019 - Polimorfizm statyczny w Javie
