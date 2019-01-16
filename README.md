@@ -1,4 +1,5 @@
 
+
 Programowanie Abstrakcyjne
 =====
 
@@ -31,7 +32,7 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - [20.12.2018 - Koncepty w C++](lectures/09.md)
 - [03.01.2019 - Polimorfizm statyczny w Javie](lectures/10.md)
 - [10.01.2018 - Polimorfizm statyczny w C#](lectures/11.md)
-- 17.01.2019 - TBD
+- 17.01.2019 - Przygotowanie do egzaminu
 - 24.01.2019 - TBD
 
 ## Oceny
@@ -56,3 +57,4 @@ Do egzaminu można przystąpić **bez** zaliczenia ćwiczeń.
 - Ćw 08 - 03.01.2018 23:59
 - Ćw 09 - 10.01.2018 23:59
 - Ćw 10 - **17.01.2018 *18:00*** - ostatnie zadanie domowe
+- Ćw 11 - **17.01.2018 *18:00*** - zadanie dodatkowe
